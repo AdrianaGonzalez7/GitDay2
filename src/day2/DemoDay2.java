@@ -17,6 +17,12 @@ public class DemoDay2 {
 		
 		
 	}
+	public void subtract(int a, int b) {
+		System.out.println(b - a);
+	}
 	
+	public  void divide(int a, int b) {
+		System.out.println(b/a);
+	}
 	
 }
