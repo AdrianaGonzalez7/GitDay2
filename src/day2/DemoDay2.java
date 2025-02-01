@@ -25,4 +25,5 @@ public class DemoDay2 {
 		System.out.println(b/a);
 	}
 	
+	// comment from java
 }
